@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=root
+DB_DATABASE=sistema_facturacion
+PORT=3000 

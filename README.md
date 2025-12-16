@@ -48,3 +48,4 @@ npm start
 - Generación de facturas
 - Configuración de impresión
 - Soporte para logo y QR de pagos
+
