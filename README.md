@@ -1,4 +1,4 @@
-# Sistema de Facturación ECL FRUVER
+# Sistema de Facturación
 
 ## Requisitos Previos
 1. Node.js (versión 14 o superior)
@@ -19,7 +19,6 @@
 npm install
 ```
 4. Crear el archivo de configuración:
-   - Copiar el archivo `.env.example` y renombrarlo a `.env`
    - Editar el archivo `.env` con tus credenciales de base de datos:
 ```
 DB_HOST=localhost
@@ -49,6 +48,3 @@ npm start
 - Generación de facturas
 - Configuración de impresión
 - Soporte para logo y QR de pagos
-
-## Soporte
-Para soporte o preguntas, contactar a: [tu_correo@ejemplo.com] 
